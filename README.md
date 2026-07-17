@@ -1,5 +1,5 @@
-Hello, I'm Phakamas! 👋
-Welcome to my portfolio! I am a passionate developer focused on building intuitive and impactful web applications. I love turning ideas into reality through clean code and modern design.
+Hello, I'm Phakamas! 👋Welcome to my profile! I am a passionate developer focused on building intuitive and impactful web applications. I love turning ideas into reality through clean code and modern design.
+
 🛠️ Tech Stack
 
 🚀 Featured Projects
@@ -26,11 +26,13 @@ Isan Wellness Trail: Regional health and tourism - https://isan-wellness-trail.l
 
 DormFlow Thai: Student housing management - https://dormflowthai.lovable.app/
 
-📈 GitHub Stats
+NoomNuGaom Playbook: Digital strategy playbook - https://noomnugaom-playbook.lovable.app
 
 📬 Let's Connect
 
-I am always open to discussing new opportunities or collaborating on interesting projects!
+Email: phakamas.nph@gmail.com
+
+Location: Thailand
 
 GitHub: Phakamas1715
 
