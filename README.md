@@ -22,11 +22,14 @@ Villa Whisper AI: AI-integrated hospitality app - https://villa-whisper-ai.lovab
 
 KK Digital Valley: Regional digital initiative - https://kk-digital-valley.lovable.app/
 
-Isan Wellness Trail: Regional health and tourism - https://isan-wellness-trail.lovable.app/
+Isan Wellness Trail: Regional health and tourism - (https://goodfillisan.com/)
+
+Goodfill Care Samui:  wellness ecosystem in Koh Samui - [https://goodfillcare-samui.com/]
 
 DormFlow Thai: Student housing management - https://dormflowthai.lovable.app/
 
-NoomNuGaom Playbook: Digital strategy playbook - https://noomnugaom-playbook.lovable.app
+NoomNuGaom Playbook: Digital strategy playbook - [(https://noomnugaom-dev.pages.dev/)
+
 
 📬 Let's Connect
 
