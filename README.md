@@ -28,9 +28,9 @@ Goodfill Care Samui:  wellness ecosystem in Koh Samui - [https://goodfillcare-sa
 
 DormFlow Thai: Student housing management - https://dormflowthai.lovable.app/
 
-NoomNuGaom Playbook: Digital strategy playbook - [(https://noomnugaom-dev.pages.dev/)
+NoomNuGaom Playbook: Digital strategy playbook - [((https://noomnugaom.pages.dev/))
 
-
+Kap Car Trilingual Journeys: Trilingual travel platform - [https://kap-car-trilingual-journeys.lovable.app](https://kap-car-trilingual-journeys.lovable.app)
 📬 Let's Connect
 
 Email: phakamas.nph@gmail.com
